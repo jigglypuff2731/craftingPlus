@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "#SP",
+        " M "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S": {
+            "item": "minecraft:spider_eye"
+        },
+        "P": {
+            "item": "minecraft:poisonous_potato"
+        },
+        "M": {
+            "item": "minecraft:mushroom_stew"
+        }
+    },
+    "result": {
+        "item": "minecraft:suspicious_stew",
+        "count": 1
+    }
+}
