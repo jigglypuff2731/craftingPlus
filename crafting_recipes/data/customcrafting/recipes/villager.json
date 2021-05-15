@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "#T#",
+        "#H#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "E": {
+            "item": "minecraft:emerald_block"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "H": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:villager_spawn_egg",
+        "count": 1
+    }
+}

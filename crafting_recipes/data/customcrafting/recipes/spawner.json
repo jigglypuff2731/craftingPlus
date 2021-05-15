@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nnn",
+        "CEC",
+        "nnn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "C": {
+            "item": "minecraft:chain"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:spawner",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "#C#",
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "T": {
+            "item": "minecraft:tnt"
+        },
+        "C": {
+            "item": "minecraft:creeper_head"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:creeper_spawn_egg",
+        "count": 1
+    }
+}
