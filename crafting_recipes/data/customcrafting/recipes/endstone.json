@@ -1,18 +1,13 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "   ",
-        "#C ",
-        "   "
-    ],
-    "key": {
-        "#": {
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
             "item": "minecraft:blackstone"
         },
-        "C": {
+        {
             "item": "minecraft:cobblestone"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:end_stone",
         "count": 1
