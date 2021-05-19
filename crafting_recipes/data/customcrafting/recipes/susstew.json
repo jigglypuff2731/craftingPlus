@@ -1,24 +1,19 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "pattern": [
-        "   ",
-        "#SP",
-        " M "
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:rotten_flesh"
-        },
-        "S": {
+    "ingredients": [
+		{
+			"item": "minecraft:rotten_flesh"
+		},
+        {
             "item": "minecraft:spider_eye"
         },
-        "P": {
+        {
             "item": "minecraft:poisonous_potato"
         },
-        "M": {
+        {
             "item": "minecraft:mushroom_stew"
         }
-    },
+	],
     "result": {
         "item": "minecraft:suspicious_stew",
         "count": 1
