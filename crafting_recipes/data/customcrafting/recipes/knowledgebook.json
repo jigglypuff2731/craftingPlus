@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#W#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:experience_bottle"
+        },
+        "W": {
+            "item": "minecraft:writable_book"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
