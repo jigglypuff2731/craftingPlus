@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "GTG",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glow_ink_sac"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "T": {
+            "item": "minecraft:torch"
+        }
+    },
+    "result": {
+        "item": "minecraft:light",
+        "count": 8
+    }
+}
